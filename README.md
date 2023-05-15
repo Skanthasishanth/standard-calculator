@@ -102,6 +102,8 @@ index.html
 
 ## OUTPUT:
 ![output](/img/output.png)
+![output](/img/outp.png)
+
 
 ## HTML VALIDATOR:
 ![output](/img/htmlv.png)
